@@ -51,7 +51,7 @@
   "dependencies": {
     "firebase": "^3.6.10",
     "johnny-five": "^0.10.6",
-    "grommet": "^4.3.0",
+    "grommet": "^1.2.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
